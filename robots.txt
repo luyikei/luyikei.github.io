@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://luyikei.github.io/sitemap.xml
+Sitemap: https://ek-lu.com/sitemap.xml
