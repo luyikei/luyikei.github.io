@@ -133,6 +133,8 @@ a:hover { color: #3f0010; }
 
 .contact-section { background: #fff; }
 .contact-panel { display: flex; align-items: center; justify-content: space-between; gap: 2rem; padding: 0; color: var(--ink); background: transparent; }
+.contact-copy { max-width: 780px; }
+.contact-copy p { color: var(--muted); font-size: .9rem; line-height: 1.6; }
 .contact-panel > a { font-weight: 600; white-space: nowrap; }
 
 footer { padding: 1.6rem 0; border-top: 1px solid var(--line); font-size: .8rem; }
